@@ -3,5 +3,5 @@
 ## v2ray  
 ```
 
-vless://060f43fd-7549-4bc7-d5f7-f0ba581d3620@morgana.bigbrother.sbs:8080?encryption=none&security=none&type=ws&path=8080
+dmxlc3M6Ly8wNjBmNDNmZC03NTQ5LTRiYzctZDVmNy1mMGJhNTgxZDM2MjBAbW9yZ2FuYS5iaWdicm90aGVyLnNiczo4MDgwP2VuY3J5cHRpb249bm9uZSZzZWN1cml0eT1ub25lJnR5cGU9d3MmcGF0aD0lMkYjODA4MA
 ```
